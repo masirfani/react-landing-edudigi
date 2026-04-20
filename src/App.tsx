@@ -38,7 +38,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-12 h-20 flex items-center justify-between">
           <div className="flex items-center gap-2 text-decoration-none">
             <div className="w-8 h-8 bg-indigo-600 rounded-full"></div>
-            <span className="font-bold text-xl tracking-tighter text-slate-800 uppercase">DIGIEDU<span className="text-indigo-600">INDONESIA</span></span>
+            <span className="font-bold text-xl tracking-tighter text-slate-800 uppercase">EDUNUSA<span className="text-indigo-600">INDONESIA</span></span>
           </div>
           <div className="hidden md:flex items-center gap-8 text-[11px] font-bold tracking-widest text-slate-400 uppercase">
             <a href="#prosedur" className="hover:text-indigo-600 transition-colors">Program</a>
@@ -334,7 +334,7 @@ export default function App() {
           <div className="md:col-span-4 space-y-8">
             <div className="flex items-center gap-2">
               <div className="w-6 h-6 bg-indigo-600 rounded-full"></div>
-              <span className="font-bold text-lg tracking-tighter text-slate-800 uppercase">DIGIEDU<span className="text-indigo-600">ID</span></span>
+              <span className="font-bold text-lg tracking-tighter text-slate-800 uppercase">EDUNUSA<span className="text-indigo-600">ID</span></span>
             </div>
             <p className="text-[13px] text-slate-400 font-medium leading-relaxed uppercase tracking-wider">
               Literasi Digital Nasional. <br/>Mempersiapkan sekolah Indonesia menghadapi masa depan informasi.
@@ -365,7 +365,7 @@ export default function App() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-12 pt-32 flex flex-col md:flex-row justify-between items-center gap-8 text-[10px] text-slate-300 font-bold uppercase tracking-[0.4em]">
-          <p>© 2026 DIGIEDU INDONESIA. ALL RIGHTS RESERVED.</p>
+          <p>© 2026 EDUNUSA INDONESIA. ALL RIGHTS RESERVED.</p>
           <div className="flex gap-12">
             <a href="#" className="hover:text-slate-600">Terms</a>
             <a href="#" className="hover:text-slate-600">Privacy</a>
